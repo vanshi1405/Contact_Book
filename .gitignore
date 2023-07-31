@@ -139,4 +139,4 @@ dmypy.json
 cython_debug/
 
 Contact_Demo/config.ini
-.idea/
+.idea
